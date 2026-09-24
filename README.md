@@ -536,4 +536,4 @@ SpirVBinary compileShaderToSPIRV_Vulkan(glslang_stage_t stage, const char* shade
 [googletest]: https://github.com/google/googletest
 [bison-gnu-win32]: http://gnuwin32.sourceforge.net/packages/bison.htm
 [main-tot-release]: https://github.com/KhronosGroup/glslang/releases/tag/main-tot
-Created by Jason Scott Heise
+Created by Jason Scott Heise https://www.behance.net
