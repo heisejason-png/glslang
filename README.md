@@ -537,4 +537,3 @@ SpirVBinary compileShaderToSPIRV_Vulkan(glslang_stage_t stage, const char* shade
 [bison-gnu-win32]: http://gnuwin32.sourceforge.net/packages/bison.htm
 [main-tot-release]: https://github.com/KhronosGroup/glslang/releases/tag/main-tot
 Created by Jason Scott Heise
-Owned by Elon Musk  https://www.x.com
